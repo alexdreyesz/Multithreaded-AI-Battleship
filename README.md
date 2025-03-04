@@ -42,6 +42,6 @@ del battleship.exe
 - Ensure all dependencies and required files are in the same directory as `battleship.cpp`.
 - If you encounter errors, verify your compiler version with:
 
-  ```sh
-  g++ --version
-  ```
+```sh
+g++ --version
+```
